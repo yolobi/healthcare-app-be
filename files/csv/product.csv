@@ -1,0 +1,41 @@
+name,generic_name,content,description,unit_in_pack,manufacture_id,form_id,image,category_id,weight,height,length,width
+Levothyroxine,Levothyroxine,100 mcg,Hormon tiroid,90 tablets,1,1,public/seeding_user_photo/medicine/111.jpg,1,10,5,30,6
+Loratadine,Loratadine,10 mg,Antihistamin,30 tablets,2,2,public/seeding_user_photo/medicine/112.jpg,2,20,10,25,7
+Metoprolol,Metoprolol,50 mg,Beta-blocker,60 tablets,3,3,public/seeding_user_photo/medicine/113.jpg,3,30,15,20,8
+Atorvastatin,Atorvastatin,40 mg,Menurunkan kolesterol,28 tablets,4,4,public/seeding_user_photo/medicine/114.jpg,4,40,20,15,9
+Sertraline,Sertraline,50 mg,Antidepresan,20 tablets,5,5,public/seeding_user_photo/medicine/115.jpg,1,50,25,10,8
+Cefuroxime,Cefuroxime,250 mg,Antibiotik,14 tablets,6,6,public/seeding_user_photo/medicine/116.jpg,2,60,30,5,7
+Albuterol,Albuterol,2 mg,Bronkodilator,200 doses,7,1,public/seeding_user_photo/medicine/117.jpg,3,70,5,10,6
+Hydrochlorothiazide,Hydrochlorothiazide,25 mg,Diuretik,30 tablets,8,2,public/seeding_user_photo/medicine/118.jpg,4,80,10,15,6
+Warfarin,Warfarin,5 mg,Antikoagulan,50 tablets,9,3,public/seeding_user_photo/medicine/119.jpg,1,90,15,20,7
+Methylprednisolone,Methylprednisolone,4 mg,Steroid,21 tablets,1,4,public/seeding_user_photo/medicine/120.jpg,2,10,20,25,8
+Diclofenac,Diclofenac,50 mg,Antiinflamasi,50 tablets,2,5,public/seeding_user_photo/medicine/121.jpg,3,20,25,30,9
+Amlodipine,Amlodipine,5 mg,Obat tekanan darah,30 tablets,3,6,public/seeding_user_photo/medicine/122.jpg,4,30,30,25,8
+Fluoxetine,Fluoxetine,20 mg,Antidepresan,40 capsules,4,1,public/seeding_user_photo/medicine/123.jpg,1,40,5,20,7
+Furosemide,Furosemide,40 mg,Diuretik,20 tablets,5,2,public/seeding_user_photo/medicine/124.jpg,2,50,10,15,6
+Acyclovir,Acyclovir,200 mg,Antivirus,25 tablets,6,3,public/seeding_user_photo/medicine/125.jpg,3,60,15,10,6
+Rosuvastatin,Rosuvastatin,10 mg,Menurunkan kolesterol,30 tablets,7,4,public/seeding_user_photo/medicine/126.jpg,4,70,20,5,7
+Ciprofloxacin,Ciprofloxacin,500 mg,Antibiotik,14 tablets,8,5,public/seeding_user_photo/medicine/127.jpg,1,80,25,10,8
+Escitalopram,Escitalopram,10 mg,Antidepresan,28 tablets,9,6,public/seeding_user_photo/medicine/128.jpg,2,90,30,15,9
+Clonazepam,Clonazepam,0.5 mg,Antikonvulsan,60 tablets,1,1,public/seeding_user_photo/medicine/129.jpg,3,10,5,20,8
+Prednisone,Prednisone,10 mg,Steroid,50 tablets,2,2,public/seeding_user_photo/medicine/130.jpg,4,20,10,25,7
+Lansoprazole,Lansoprazole,15 mg,Penghambat produksi asam,14 capsules,3,3,public/seeding_user_photo/medicine/131.jpg,1,30,15,30,6
+Valsartan,Valsartan,160 mg,Obat tekanan darah,30 tablets,4,4,public/seeding_user_photo/medicine/132.jpg,2,40,20,25,6
+Diphenhydramine,Diphenhydramine,25 mg,Antihistamin,24 capsules,5,5,public/seeding_user_photo/medicine/133.jpg,3,50,25,20,7
+Metronidazole,Metronidazole,500 mg,Antibiotik,20 tablets,6,6,public/seeding_user_photo/medicine/134.jpg,4,60,30,15,8
+Lisinopril,Lisinopril,10 mg,Obat tekanan darah,60 tablets,7,1,public/seeding_user_photo/medicine/135.jpg,1,70,5,10,9
+Citalopram,Citalopram,20 mg,Antidepresan,30 tablets,8,2,public/seeding_user_photo/medicine/111.jpg,2,80,10,5,8
+Naproxen,Naproxen,220 mg,Antiinflamasi,24 tablets,9,3,public/seeding_user_photo/medicine/112.jpg,3,90,15,10,7
+Dexamethasone,Dexamethasone,0.5 mg,Steroid,10 tablets,1,4,public/seeding_user_photo/medicine/113.jpg,4,10,20,15,6
+Quetiapine,Quetiapine,100 mg,Antipsikotik,60 tablets,2,5,public/seeding_user_photo/medicine/114.jpg,1,20,25,20,6
+Amiodarone,Amiodarone,200 mg,Antiaritmia,30 tablets,3,6,public/seeding_user_photo/medicine/115.jpg,2,30,30,25,7
+Paracetamol,Acetaminophen,500 mg,Obat penurun demam,20 tablets,4,1,public/seeding_user_photo/medicine/116.jpg,3,40,5,30,8
+Omeprazole,Omeprazole,20 mg,Penghambat produksi asam,30 capsules,5,2,public/seeding_user_photo/medicine/117.jpg,4,50,10,25,9
+Cetirizine,Cetirizine,10 mg,Antihistamin,10 tablets,6,3,public/seeding_user_photo/medicine/118.jpg,1,60,15,20,8
+Simvastatin,Simvastatin,20 mg,Menurunkan kolesterol,28 tablets,7,4,public/seeding_user_photo/medicine/119.jpg,2,70,20,15,7
+Ibuprofen,Ibuprofen,400 mg,Antiinflamasi,24 tablets,8,5,public/seeding_user_photo/medicine/120.jpg,3,80,25,10,6
+Amoxicillin,Amoxicillin,500 mg,Antibiotik,15 capsules,9,6,public/seeding_user_photo/medicine/121.jpg,4,90,30,5,6
+Losartan,Losartan,50 mg,Obat tekanan darah,30 tablets,1,1,public/seeding_user_photo/medicine/122.jpg,1,10,5,10,7
+Metformin,Metformin,850 mg,Kontrol gula darah,60 tablets,2,2,public/seeding_user_photo/medicine/123.jpg,2,20,10,15,8
+Aspirin,Acetylsalicylic acid,81 mg,Pengencer darah,100 tablets,3,3,public/seeding_user_photo/medicine/124.jpg,3,30,15,20,9
+Ranitidine,Ranitidine,150 mg,Antiasam lambung,20 tablets,4,4,public/seeding_user_photo/medicine/125.jpg,4,40,20,25,8

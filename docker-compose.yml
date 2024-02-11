@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  healthcare-api:
+    image: varmaseaapp/healthcare-api:v1.9
+    ports:
+      - "8080:8080"
+    build:
+      context: .
+      dockerfile: app.dockerfile
+    env_file:
+      - ./files/yaml/configs/healthcare.docker.yml
+
+volumes:
+  -db_data:

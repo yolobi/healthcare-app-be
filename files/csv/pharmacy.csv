@@ -1,0 +1,99 @@
+address_id,name,pharmaciest_name,license_number,phone_number,admin_pharmacy_id
+1,Apotek Sehat Sentosa,Ns. Anisa Sari,1234567895,+628123456716,1
+2,Farmasi Cemerlang,Ns. Budi Santoso,1234567896,+628123456717,1
+3,Klinik Farma Prima,Ns. Cinta Permata,1234567897,+628123456718,1
+4,Apotek Harmoni,Ns. Dian Fitriani,1234567898,+628123456719,1
+5,Pharmalink,Ns. Eka Pratiwi,1234567899,+628123456720,1
+6,Sentra Medika,Ns. Fajar Indah,1234567900,+628123456721,1
+7,Apotek Bintang Sejahtera,Ns. Gita Purnama,1234567901,+628123456722,1
+8,Herbalis Farmasi,Ns. Hadi Santoso,1234567902,+628123456723,1
+9,Farma Plus,Ns. Indah Lestari,1234567903,+628123456724,1
+10,Apotek Jaya Abadi,Ns. Joko Sutrisno,1234567904,+628123456725,1
+11,Vitalis Pharm,Ns. Kartika Wulandari,1234567905,+628123456726,2
+12,PharmCare,Ns. Lina Mustika,1234567906,+628123456727,2
+13,Apotek Sumber Sehat,Ns. Miftahul Jannah,1234567907,+628123456728,2
+14,Amanah Medika,Ns. Nanda Cahyani,1234567908,+628123456729,2
+15,Farma Gemilang,Ns. Oktavia Dewi,1234567909,+628123456730,2
+16,Sejahtera Pharma,Ns. Purnama Wijaya,1234567910,+628123456731,2
+17,Apotek Cipta Sejahtera,Ns. Qonita Aulia,1234567911,+628123456732,2
+18,Medika Prima,Ns. Rudi Hermawan,1234567912,+628123456733,2
+19,Pharma Excel,Ns. Sari Rahayu,1234567913,+628123456734,2
+20,Apotek Kesehatan Utama,Ns. Tito Nugroho,1234567914,+628123456735,2
+21,Sentosa Pharma,Ns. Umi Kurniasih,1234567915,+628123456736,3
+22,Mediserv Apotek,Ns. Vina Agustina,1234567916,+628123456737,3
+23,Apotek Sejahtera Medika,Ns. Wahyu Saputra,1234567917,+628123456738,3
+24,PrimaCare Pharm,Ns. Xena Fitriana,1234567918,+628123456739,3
+25,Guardian Pharm,Ns. Yuni Anggraini,1234567919,+628123456740,3
+26,Apotek Fitra Medika,Ns. Zainal Abidin,1234567920,+628123456741,3
+27,Medika Lestari,Ns. Aditya Pratama,1234567921,+628123456742,3
+28,Pharmacia Sehat,Ns. Bella Pramudya,1234567922,+628123456743,3
+29,Apotek Anugerah,Ns. Cahya Utama,1234567923,+628123456744,3
+30,Sehat Bersama Pharmacy,Ns. Dara Anggreini,1234567924,+628123456745,3
+31,Apotek Puspa Sejahtera,Ns. Edi Purwanto,1234567925,+628123456746,4
+32,Farma Lestari,Ns. Fitri Amelia,1234567926,+628123456747,4
+33,Apotek Adimas,Ns. Galuh Pratiwi,1234567927,+628123456748,4
+34,Pharmalink Sejahtera Kimia,Ns. Hanifah Salsabila,1234567928,+628123456749,4
+35,Apotek Budi Mulia,Ns. Irfan Maulana,1234567929,+628123456750,4
+36,Sehat Mandiri Pharma,Ns. Jihan Fauziah,1234567930,+628123456751,4
+37,Apotek Nusa Sehat,Ns. Kurnia Sari,1234567931,+628123456752,4
+38,Farma Berkah,Ns. Lukman Hakim,1234567932,+628123456753,4
+39,Medika Pratama,Ns. Maya Lestari,1234567933,+628123456754,4
+40,Apotek Citra Sejahtera,Ns. Nabilah Putri,1234567934,+628123456755,4
+41,Sejahtera Medika,Ns. Oki Setiawan,1234567935,+628123456756,5
+42,Pharmart,Ns. Puspita Wulandari,1234567936,+628123456757,5
+43,Apotek Bakti Husada,Ns. Qodir Junaedi,1234567937,+628123456758,5
+44,Prima Medika,Ns. Rini Safitri,1234567938,+628123456759,5
+45,Apotek Terang Sejahtera,Ns. Surya Pratama,1234567939,+628123456760,5
+46,Pharma Medis,Ns. Tasya Permata,1234567940,+628123456761,5
+47,Sehat Cemerlang,Ns. Umar Syahputra,1234567941,+628123456762,5
+48,Apotek Ceria,Ns. Viona Handayani,1234567942,+628123456763,5
+49,Farma Prima Medika,Ns. Wira Kusuma,1234567943,+628123456764,5
+50,Apotek Karya Sehat,Ns. Xaverius Adi,1234567944,+628123456765,5
+51,Sejahtera Farma Berkah,Ns. Yulia Safitri,1234567945,+628123456766,6
+52,Apotek Nusantara,Ns. Zainab Rahmawati,1234567946,+628123456767,6
+53,Pharmalink Prima,Ns. Akbar Prasetya,1234567947,+628123456768,6
+54,Apotek Griya Sehat,Ns. Bella Putri,1234567948,+628123456769,6
+55,Sehat Sentosa Medika,Ns. Candra Wijaya,1234567949,+628123456770,6
+56,Medika Mandiri,Ns. Dina Pramesti,1234567950,+628123456771,6
+57,Apotek Jaya Sakti,Ns. Erlangga Utama,1234567951,+628123456772,6
+58,Farma Care,Ns. Fitriani Kartika,1234567952,+628123456773,6
+59,Apotek Abadi Sehat,Ns. Galang Pratama,1234567953,+628123456774,6
+60,Pharmalink Medis,Ns. Hanum Puspita,1234567954,+628123456775,6
+61,Sejahtera Pharmacy,Ns. Iqbal Ramadhan,1234567955,+628123456776,7
+62,Apotek Berkat Sehat,Ns. Jumadi Santoso,1234567956,+628123456777,7
+63,Prima Farma,Ns. Karina Dewi,1234567957,+628123456778,7
+64,Apotek Sehat Jaya,Ns. Lutfi Hidayat,1234567958,+628123456779,7
+65,Farma Kencana,Ns. Mega Astuti,1234567959,+628123456780,7
+66,Apotek Cerdas,Ns. Nurdin Wijaya,1234567960,+628123456781,7
+67,Sejahtera Medis,Ns. Olla Sari,1234567961,+628123456782,7
+68,Medika Sehat Bersama,Ns. Prima Indah,1234567962,+628123456783,7
+69,Apotek Purnama,Ns. Qolbi Marwansyah,1234567963,+628123456784,7
+70,Pharmalink Sehat,Ns. Rika Kusumawati,1234567964,+628123456785,7
+71,Apotek Nirmala,Ns. Surya Adi,1234567965,+628123456786,8
+72,Sejahtera Berkah Farma,Ns. Tari Permata,1234567966,+628123456787,8
+73,Apotek Surya Sehat,Ns. Umar Rizal,1234567967,+628123456788,8
+74,Medika Gemilang,Ns. Vira Safitri,1234567968,+628123456789,8
+75,Pharmalink Pratama,Ns. Wahyu Pratama,1234567969,+628123456790,8
+76,Apotek Sumber Medika,Ns. Xena Arifin,1234567970,+628123456791,8
+77,Sehat Lestari Pharmacy,Ns. Yanti Sihombing,1234567971,+628123456792,8
+78,Farma Jaya,Ns. Zainul Arifin,1234567972,+628123456793,8
+79,Apotek Kesehatan Sejahtera,Ns. Adinda Putri,1234567973,+628123456794,8
+80,Medika Cemerlang,Ns. Bagus Prakoso,1234567974,+628123456795,8
+81,Apotek Sentosa Medis,Ns. Citra Ramadhani,1234567975,+628123456796,9
+82,Farma Pratama,Ns. Dinda Ayu,1234567976,+628123456797,9
+83,Apotek Bakti Sehat,Ns. Edy Kusnadi,1234567977,+628123456798,9
+84,Sehat Abadi,Ns. Fanny Setiawan,1234567978,+628123456799,9
+85,Pharma Berkah Sejahtera,Ns. Galih Prabowo,1234567979,+628123456800,9
+86,Apotek Sari Sehat,Ns. Hani Safitri,1234567980,+628123456801,9
+87,Farma Bina,Ns. Iqbal Setiawan,1234567981,+628123456802,9
+88,Apotek Nusa Medika,Ns. Jumaidah Fitri,1234567982,+628123456803,9
+89,Pharmalife,Ns. Kusuma Wijaya,1234567983,+628123456804,9
+90,Apotek Sejahtera Gemilang,Ns. Lita Maulida,1234567984,+628123456805,9
+91,Medika Surya,Ns. Mustika Sari,1234567985,+628123456806,10
+92,Apotek Cipta Medis,Ns. Naimah Hidayah,1234567986,+628123456807,10
+93,Sehat Medika,Ns. Oki Sutanto,1234567987,+628123456808,10
+94,Farma Jaya Sentosa,Ns. Putri Kurnia,1234567988,+628123456809,10
+95,Apotek Nusantara Sehat,Ns. Qory Fadhila,1234567989,+628123456810,10
+96,Pharmalink Bersama,Ns. Rizal Adi,1234567990,+628123456811,10
+97,Apotek Raya,Ns. Siska Pratiwi,1234567991,+628123456812,10
+98,Sejahtera Kesehatan,Ns. Tulus Setiawan,1234567992,+628123456813,10

@@ -1,0 +1,15 @@
+server:
+  host: "localhost"
+  port: "8080"
+  timeout:
+    server: 30
+    read: 15
+    write: 10
+    idle: 5
+
+postgres:
+  host: localhost
+  port: 5432
+  dbname: healthcare_db
+  dbuser: root
+  dbpass: 
